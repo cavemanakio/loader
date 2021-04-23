@@ -1,0 +1,6 @@
+[+] Otimização de códigos
+[+] Sitema de update
+[+] Melhorias de segurança
+[+] Build única de bypass
+[+] Correções de bugs
+[+] Melhorias gerais
