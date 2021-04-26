@@ -1,4 +1,4 @@
-[+] Otimizacao de codigos
+[+] Otimização de codigos
 [+] Sistema de update
 [+] Melhorias de segurança
 [+] Build unica de bypass
