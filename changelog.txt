@@ -2,9 +2,12 @@
 
 
 
+
 [+] Sistema de update 
 
+
 [+] Melhorias de seguranca
+
 
 
 
@@ -12,7 +15,9 @@
 
 
 
+
 [+] Correcoes de bugs 
+
 
 
 
