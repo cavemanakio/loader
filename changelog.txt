@@ -1,6 +1,6 @@
-[+] Otimizacao de codigos
-[+] Sistema de update
-[+] Melhorias de seguranca
-[+] Build unica de bypass
-[+] Correcoes de bugs
-[+] Melhorias gerais
+[+] Otimizacao de codigos                                                                             
+[+] Sistema de update                                                                                
+[+] Melhorias de seguranca                                                                           
+[+] Build unica de bypass                                                                                 
+[+] Correcoes de bugs                                                                                       
+[+] Melhorias gerais                                                                                     
