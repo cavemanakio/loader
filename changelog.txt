@@ -1,6 +1,6 @@
 [+] Otimizacao de codigos
 [+] Sistema de update
 [+] Melhorias de seguranca
-[+] Build unica de bypass e DLL nova
+[+] Build unica de bypass e DLL
 [+] Correcoes de bugs
 [+] Melhorias gerais
