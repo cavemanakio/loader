@@ -3,4 +3,4 @@
 [+] Melhorias de seguranca
 [+] Build unica de bypass e DLL
 [+] Correcoes de bugs
-[+] Melhorias gerais
+[+] Gayza1
