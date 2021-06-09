@@ -1,4 +1,4 @@
-[+] Adicionada injecao manual de Dlls
+[+] Adicionada injecao manual
 [+] Otimizacao de codigos
 [+] Sistema de update
 [+] Melhorias de seguranca
