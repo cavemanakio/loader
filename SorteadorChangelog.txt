@@ -1,1 +1,7 @@
+[+] Rework Visual
+[+] Mudanças minimas na UI
+[+] Sistema de update
+[+] Melhorias de seguranca
+[+] Otimizaçao de codigo
+[+] Correcoes de bugs
 
