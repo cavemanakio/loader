@@ -1,4 +1,5 @@
 Versão 1.0 - 23/02/2022
+
 [+] Rework Visual
 [+] Mudanças mínimas na UI
 [+] Sistema de update
