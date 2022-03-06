@@ -1,4 +1,4 @@
-Versão 1.1 - 24/02/2022
+Versão 1.2 - 06/03/2022
 
 [+] Rework Visual
 [+] Mudanças mínimas na UI
