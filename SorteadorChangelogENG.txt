@@ -1,0 +1,9 @@
+
+Version 1.3 - 06/03/2022
+
+[+] Visual Rework
+[+] Minimal UI changes
+[+] Update system
+[+] Security improvements
+[+] Code optimization
+[+] Bug fixes
