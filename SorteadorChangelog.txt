@@ -1,4 +1,4 @@
-Versão 1.4 - 26/04/2022
+Versão 1.5 - 27/04/2022
 
 [+] Rework Visual
 [+] Mudanças mínimas na UI
