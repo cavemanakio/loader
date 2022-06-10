@@ -1,4 +1,4 @@
-Version 1.7 - 06/10/2022
+Version 1.8 - 06/10/2022
 
 [+] Visual Rework
 [+] Minimal UI changes
