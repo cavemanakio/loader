@@ -1,8 +1,8 @@
-Version 1.9 - 06/10/2022
+Version 2.0 - 06/13/2022
 
 [+] Visual Rework
 [+] Minimal UI changes
 [+] Update system
 [+] Security improvements
-[+] Code optimization
+[+] Discord Logs
 [+] Bug fixes
